@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bunker
+  - Bullets
+  - UI
+  - enemyBullet
+  - Controller
+  - GameOver
+  - Roast
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Bg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bg
+    uniqueID: 3049119157
+    locked: 0
+  - name: Player Bg
+    uniqueID: 2346527809
+    locked: 0
+  - name: Player
+    uniqueID: 904483501
+    locked: 0
+  - name: Player Fg
+    uniqueID: 3043115987
+    locked: 0
+  - name: UI
+    uniqueID: 1124871963
+    locked: 0
